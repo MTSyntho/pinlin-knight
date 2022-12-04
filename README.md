@@ -1,2 +1,2 @@
-# pinlin-knight
+# PinLin Knight
 Protect the kingdom on a nokia.
